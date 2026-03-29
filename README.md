@@ -4,4 +4,3 @@
 **Name:** Atanasij 
 **Surname:** Korobar  
 **Index:** 241555
-# SI_2026_Lab1_241555
